@@ -4,7 +4,7 @@ require('dotenv').config({
 
 module.exports = {
   siteMetadata: {
-    title: `Cool Blog`,
+    title: `Student Ejaz MATC Blog`,
     description: `ITDEV-164 Gatsby Blog.`,
     author: `Mike Hunsicker`,
     contact: {
@@ -45,7 +45,7 @@ module.exports = {
         icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
       },
     },
-    // this (optional) plugin enables Progressive Web App + Offline functionality
+    // this (optional) plugin enables Progressive Web Aaaaapp + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
   ],
